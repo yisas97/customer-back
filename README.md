@@ -17,4 +17,3 @@ This project is open source under the [Licencia MIT](https://github.com/sotobote
 2. Enter the project folder and run the command ./mvnw package.
 3. Run the command java -jar target/customer-back-0.0.1-SNAPSHOT.jar.
 4. Open your browser and go to http://localhost:8080/swagger-ui.html.
-5. Optionally, you can clone the Angular front-end from the following [repository:](https://github.com/sotobotero/customer-front.)
