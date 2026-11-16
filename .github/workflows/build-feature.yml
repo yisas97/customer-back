@@ -23,5 +23,5 @@ jobs:
 
       - name: build with maven
         run: |
-          bash ./mvnw --batch-mode --no-transfer-progress clean install
+          mvn clean install
           echo "build with maven"
